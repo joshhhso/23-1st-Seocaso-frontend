@@ -71,7 +71,7 @@
 
 #### 상세페이지
 
-- 별점 기능 구현(currentTarget,nativeEvent)
+- <span style="color:green"> 별점 기능 구현(currentTarget,nativeEvent)
 - 좋아요 기능 구현
 - 댓글 기능 구현
 - 이미지 모달창
