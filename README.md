@@ -1,5 +1,5 @@
 # 서카소 (왓챠피디아 클론코딩)
-
+**※ 제가 맡은 페이지, 역할을 볼드 처리했습니다.**
 <div align="center"> 
   <img alt="main" src="https://user-images.githubusercontent.com/79290170/129485664-93e1dafe-f31e-4baa-8ea8-eab834306aaa.png">
   <br>
@@ -21,7 +21,7 @@
 ## What is Seocaso Project?
 
 - 영화란 영화는 다 모인 [왓챠피디아](https://www.watchapedia.com/) 클론 프로젝트
-- 촉박한 프로젝트 기간이었지만 실제 사용가능한 사이트를 새롭게 제작고자 기획을 동시에 진행했습니다.
+- **촉박한 프로젝트 기간이었지만 실제 사용가능한 사이트를 새롭게 제작고자 기획을 동시에 진행했습니다.**
 - "서울의 카페를 소개합니다"를 주제로 영화를 카페로 대체하여 소개하는 웹 사이트를 제작했습니다.
 - wecode Bootcamp에서 배운 React, Javascript, HTML/CSS, Scss, Django, Python을 바탕으로 구현할 수 있는 기능들과<br>
   그 외에 툴인 Github, Git, Trello등 을 추가로 사용하여 프로젝트 진행을 관리했습니다.
