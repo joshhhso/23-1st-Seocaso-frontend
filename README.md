@@ -92,11 +92,9 @@
 <br>
 
 #### 최종 결과물
-<div align="center"> 
 
   [![Video Label](http://img.youtube.com/vi/V38oqwMjnoI/0.jpg)](https://youtu.be/V38oqwMjnoI)
 
-</div>
 ## Reference
 
 - 이 프로젝트는 [왓챠피디아](https://www.watchapedia.com/) 사이트를 참조하여 학습목적으로 만들었습니다.
