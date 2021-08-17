@@ -9,7 +9,7 @@
 ## Seocaso Project Teammate
 
 - F.E<br>
-<span style="color:green">  [소진수](https://github.com/joshhhso)<br>
+  [소진수(PM)](https://github.com/joshhhso)<br>
   [문주영](https://github.com/moonjuyoung1)<br>
   [김다슬](https://github.com/cocacollllla/)<br>
   <br>
@@ -71,19 +71,19 @@
 
 #### 상세페이지
 
-- <span style="color:green"> 별점 기능 구현(currentTarget,nativeEvent) </span>
-- 좋아요 기능 구현
-- 댓글 기능 구현
-- 이미지 모달창
-- 클릭시 상세 페이지로 이동
-- 데이터에 따른 그래프 자동기능 구현
-- 댓글 좋아요 기능 구현
+- **별점 기능 구현(currentTarget,nativeEvent)**
+- **좋아요 기능 구현**
+- **댓글 기능 구현**
+- **이미지 모달창**
+- **클릭시 상세 페이지로 이동**
+- **데이터에 따른 그래프 자동기능 구현**
+- **댓글 좋아요 기능 구현**
 
 #### 마이페이지
 
-- 별점 순, 별점 역순, 필터링 기능 구현
-- 캐러셀 기능 구현
-- 이미지 클릭시 상세페이지 이동
+- **별점 순, 별점 역순, 필터링 기능 구현**
+- **캐러셀 기능 구현**
+- **이미지 클릭시 상세페이지 이동**
 
 #### 최종 결과물
 
