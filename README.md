@@ -4,16 +4,12 @@
   <img alt="main" src="https://user-images.githubusercontent.com/79290170/129485664-93e1dafe-f31e-4baa-8ea8-eab834306aaa.png">
   <br>
   <br>
-  <br>
-  
-
-  
 </div>
 
 ## Seocaso Project Teammate
 
 - F.E<br>
-  [소진수](https://github.com/joshhhso)<br>
+<span style="color:green">  [소진수](https://github.com/joshhhso)<br>
   [문주영](https://github.com/moonjuyoung1)<br>
   [김다슬](https://github.com/cocacollllla/)<br>
   <br>
@@ -88,8 +84,6 @@
 - 별점 순, 별점 역순, 필터링 기능 구현
 - 캐러셀 기능 구현
 - 이미지 클릭시 상세페이지 이동
-
-<br>
 
 #### 최종 결과물
 
