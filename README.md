@@ -1,12 +1,10 @@
 # 서카소 (왓챠피디아 클론코딩)
 
-<center>
   
-![seocaso_logo](https://user-images.githubusercontent.com/79290170/129485664-93e1dafe-f31e-4baa-8ea8-eab834306aaa.png)
+![seocaso_logo](https://user-images.githubusercontent.com/79290170/129485664-93e1dafe-f31e-4baa-8ea8-eab834306aaa.png){: .align-center}
 
-[![Video Label](http://img.youtube.com/vi/V38oqwMjnoI/0.jpg)](https://youtu.be/V38oqwMjnoI)
+[![Video Label](http://img.youtube.com/vi/V38oqwMjnoI/0.jpg)](https://youtu.be/V38oqwMjnoI){: .align-center}
 
-</center>  
 
 ## Seocaso Project Teammate
 
