@@ -1,22 +1,10 @@
 # 서카소 (왓챠피디아 클론코딩)
-**※ 제가 맡은 페이지, 역할을 볼드 처리했습니다.**
+
 <div align="center"> 
   <img alt="main" src="https://user-images.githubusercontent.com/79290170/129485664-93e1dafe-f31e-4baa-8ea8-eab834306aaa.png">
   <br>
   <br>
 </div>
-
-## Seocaso Project Teammate
-
-- F.E<br>
-  [소진수(PM)](https://github.com/joshhhso)<br>
-  [문주영](https://github.com/moonjuyoung1)<br>
-  [김다슬](https://github.com/cocacollllla/)<br>
-  <br>
-- B.E<br>
-  [최혜림](https://github.com/rimi0108)<br>
-  [장호준](https://github.com/bigfanoftim)<br> 
-  <br>
 
 ## What is Seocaso Project?
 
@@ -31,7 +19,6 @@
 
 - 개발기간 : 2021/8/2 ~ 2021/8/13
 - 개발 인원 : 프론트엔드 3명, 백엔드 2명
-- [B.E github 링크](https://github.com/wecode-bootcamp-korea/23-1st-Seocaso-backend)
 
 ### 프로젝트 선정이유
 
@@ -44,30 +31,7 @@
 ### 적용 기술
 
 > -Front-End : javascript, React.js framwork, sass<br>
-> -Back-End : Python, Django web framework, MySQL, Bcrypt, pyjwt<br>
 > -Common : POSTMAN, RESTful API
-
-### 구현 기능
-- 바닐라 자바스크립트로 구현
-
-#### 회원가입 / 로그인페이지
-
-- 회원가입 시 정규식을 통한 유효성 검사. (소문자, 대문자, 특수문자의 조합)
-- 로그인을 이후 토큰 발행, 계정 활성화
-- 계정 없을 시 바로 회원가입으로 이동할 수 있도록 구현
-- 로그인 / 회원가입 모달창 구현
-
-#### 메인페이지
-
-- 바닐라 자바스크립트 캐러셀 구현(translateX)
-- 별점 순, 리뷰 순 데이터에 따른 리스트 구현
-- 검색바에서 키워드 검색시 검색결과 상단에 검색 값에 해당되는 카페 리스트 페이지로 이동.
-- 하단 푸터를 통한 사이트 설명
-
-#### 검색 페이지
-
-- 키워드(카페명, 지역명) 필터링.
-- 클릭시 상세 페이지로 이동.
 
 #### 상세페이지
 
